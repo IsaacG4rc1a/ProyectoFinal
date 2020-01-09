@@ -16,7 +16,7 @@ namespace MiPrimerAplicacion.Controllers
 
         public string Mensaje()
         {
-            return "Bienvenidos al curos de MVC 5";
+            return "Bienvenidos al curos de MVC";
         }
 
         public string Saludo(string nombre)
